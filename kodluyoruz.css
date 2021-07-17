@@ -1,0 +1,57 @@
+#centered {
+    text-align: center;
+    color: brown;
+} 
+.table {
+	display: table;  
+	margin: 0 auto;
+}
+ul#hl {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+ul#hl li {
+	display: inline;
+}
+.colored{
+    color: blueviolet;
+    text-align: center;
+}
+.prg{
+    text-align: center;
+
+}
+#list{
+    list-style-position: inside;
+}
+.vertical{
+    margin: auto;
+    width: 20%;
+}
+.h3{
+    color: seagreen;
+}
+
+
+/* h1, h2, h3 {
+    color: #996f6f;
+}
+p {
+    font-size: 20px;
+}
+.text-red {
+    color: red;
+}
+.fs-14 {
+    font-size: 14px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+#first-article {
+    font-size: 40px;
+} */
